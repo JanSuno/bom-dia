@@ -1,5 +1,6 @@
 package com.example.myapplication;
-//meu nome é Renan Wenzel
+//Nomes: Renan Wenzel e Lucas Aguiar Cera
+
 import android.annotation.SuppressLint;
 
 import androidx.appcompat.app.ActionBar;
