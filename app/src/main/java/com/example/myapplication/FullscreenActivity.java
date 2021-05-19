@@ -1,5 +1,5 @@
 package com.example.myapplication;
-//Nomes: Renan Wenzel e Lucas Aguiar Cera
+//Nomes: Renan Wenzel e Lucas Aguiar Cera.
 
 import android.annotation.SuppressLint;
 
